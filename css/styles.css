@@ -4,6 +4,17 @@ h2 {
 #showing {
   display: none;
 }
-#D-showing {
-  display;none
+#showing-d {
+  display: none;
+
+}
+header {
+  background-image: url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/h_img.jpg);
+
+}
+body{
+  text-align: center;
+}
+#showing-p {
+  display: none;
 }

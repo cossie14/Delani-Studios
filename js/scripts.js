@@ -3,4 +3,14 @@ $(document).ready(function() {
     $("#showing").slideToggle();
     $("#hidden").slideToggle();
   });
+
+  $(".clickable-d").click(function() {
+    $("#showing-d").slideToggle();
+    $("#hidden-d").slideToggle();
+  });
+
+  $(".clickable-p").click(function() {
+    $("#showing-p").slideToggle();
+    $("#hidden-p").slideToggle();
+  });
 });
