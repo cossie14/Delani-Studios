@@ -18,3 +18,24 @@ body{
 #showing-p {
   display: none;
 }
+.services {
+  background-image: url("../img/img3.jpg");
+  color: #fff;
+  padding: 20px;
+
+}
+.contact {
+  background-image: url("../img/img1.jpg");
+  padding: 30px;
+  height: 400px;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+.form-control{
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 50px;
+  width: 400px;
+}
