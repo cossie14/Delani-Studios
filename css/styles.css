@@ -8,13 +8,16 @@ h2 {
   display: none;
 
 }
-header {
-  background-image: url("../img/img2.jpg")
-}
 .header{
+  background-image: url("../img/img2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
   padding: 70px;
   color: white;
-  margin:34px;
+  /* margin:34px */ */
+}
+.header p{
+  padding-bottom: 40%;
 }
 body{
   text-align: center;
@@ -25,7 +28,7 @@ body{
 .services {
   background-image: url("../img/img3.jpg");
   color: #fff;
-  padding: 100px;
+  padding: 20px;
 
 }
 .contact {
@@ -41,4 +44,20 @@ body{
   margin-right: 200px;
   margin-top: 50px;
   width: 400px;
+}
+.over{
+  position: absolute;
+  margin-top: -92%;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.7);
+  height: 100%;
+  width: 91%;
+}
+.over h3{
+  margin-top: 40%;
+  border: 3px solid white;
+}
+input{
+  background: transparent;
+  color: white;
 }

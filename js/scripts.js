@@ -13,4 +13,14 @@ $(document).ready(function() {
     $("#showing-p").slideToggle();
     $("#hidden-p").slideToggle();
   });
+  $('.over').hover(function() {
+    $(this).animate({
+      opacity: '1'
+    });
+  },
+  function() {
+    $(this).animate( {
+      opacity : '0'
+    });
+  });
 });
