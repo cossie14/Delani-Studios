@@ -9,29 +9,34 @@ h2 {
 
 }
 header {
-  background-image: url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/h_img.jpg);
+  background-image: url("../img/img2.jpg")
+
 
 }
 body{
   text-align: center;
+  body{
+  font-family: "Lato", "Open Sans", sans-serif;
 }
 #showing-p {
   display: none;
 }
-.services {
-  background-image: url("../img/img3.jpg");
-  color: #fff;
-  padding: 20px;
-
+.sect-5{
+   background-image: url("https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/c_image.jpg?raw=true");
+   background-repeat: no-repeat;
+   background-size: cover;
+   margin-top: 10%;
+   width: 100%;
 }
 .contact {
-  background-image: url("../img/img1.jpg");
-  padding: 30px;
-  height: 400px;
+  background-image: url("https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/c_image.jpg?raw=true")
+  height:200px;
   margin-left: 200px;
   margin-right: 200px;
   margin-top: 50px;
   margin-bottom: 20px;
+  color: #fff;
+  width: 100%;
 }
 .form-control{
   margin-left: 200px;
