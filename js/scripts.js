@@ -23,4 +23,14 @@ $(document).ready(function() {
       opacity : '0'
     });
   });
+  $("#submit").click(function(event){
+    var name = $("#fname").val();
+    if(name != ""){
+      alert(name + "thanks for sending a message.")
+
+    }else {
+      alert("please fill in your details")
+    }
+      event.preventDefault();
+    });
 });
