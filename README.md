@@ -19,14 +19,7 @@ Sylviah Rutto
 
 #### Setup Instructions
     1 Ensure you have a web browser in your computer
-    2 Ensure you are connected to the nternet.
-
-
----
-#### BDD
-   
-
-
+    2 Ensure you are connected to the internet.
 
 ---
 
@@ -35,7 +28,7 @@ Sylviah Rutto
     2 J-QUERY
     3 CSS
     4 BOOTSTRAP
-   
+
 ----
 
 #### The link to the website
