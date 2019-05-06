@@ -12,12 +12,12 @@ h2 {
   background-image: url("../img/img2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 70px;
+  padding: 20px;
   color: white;
-  /* margin:34px */ */
+
 }
 .header p{
-  padding-bottom: 50%;
+  padding-bottom: 10%;
 }
 body{
   text-align: center;
@@ -43,7 +43,7 @@ body{
   margin-left: 200px;
   margin-right: 200px;
   margin-top: 50px;
-  width: 400px;
+  width: 200px;
 }
 .over{
   position: absolute;
