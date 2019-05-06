@@ -32,7 +32,7 @@ Sylviah Rutto
 ----
 
 #### The link to the website
-       https://cossie14.github.io/Delani-Studios/
+https://cossie14.github.io/Delani-Studios/       
 
 
 ----
