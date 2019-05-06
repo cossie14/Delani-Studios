@@ -10,7 +10,11 @@ h2 {
 }
 header {
   background-image: url("../img/img2.jpg")
-
+}
+.header{
+  padding: 70px;
+  color: white;
+  margin:34px;
 }
 body{
   text-align: center;
@@ -21,7 +25,7 @@ body{
 .services {
   background-image: url("../img/img3.jpg");
   color: #fff;
-  padding: 20px;
+  padding: 100px;
 
 }
 .contact {
